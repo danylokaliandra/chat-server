@@ -7,13 +7,6 @@
     "test": "mocha ./test/*.js ./modules/**/test/*.js --exit"
   },
   "private": false,
-  "author": "Andrea Leo - Frontiere21 SRL",
-  "license": "AGPL-3.0",
-  "homepage": "http://www.chat21.org",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chat21/chat21-server"
-  },
   "engines": {
     "node": "11.10.0",
     "npm": "6.8.0"
